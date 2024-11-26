@@ -1,7 +1,7 @@
-Product API
+# Product API
 -This project provides a simple REST API to manage products using Django. The API includes endpoints to create and retrieve products, with fields like name, description, and price.
 
-Setup Instructions
+## Setup Instructions
 
 Step 1: Clone the Repository
 git clone https://github.com/your-username/product-api.git
