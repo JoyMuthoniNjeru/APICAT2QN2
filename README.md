@@ -23,7 +23,8 @@ python manage.py runserver
 
 Step 6: Testing the API Manually or with Python Script
 
-API Endpoints
+## API Endpoints
+
 1. POST /products: Create a New Product
     Request:-URL: /api/products/
             -Method: POST
